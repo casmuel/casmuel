@@ -11,3 +11,5 @@ Meu nome é joao pedro🥇
 santos.elias.joao@escola.pr.gov.br
 
 @casmuel
+
+![]https://media.tenor.com/XUHPmsJ-sLsAAAAC/%C3%ADndio-bombado-emo-%C3%ADndio.gif
