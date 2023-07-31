@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil ✈️
 
-<!--
-**casmuel/casmuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é joao pedro🥇
 
-Here are some ideas to get you started:
+-estou estudando na alura
+-estou me desenvolvendo na linguagem javascript
+-utilizo esses espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos :accessibility:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contado em contato comigo 📧
+
+santos.elias.joao@escola.pr.gov.br
+
+@casmuel
